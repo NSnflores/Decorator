@@ -2,7 +2,7 @@
 
 namespace DecoratorPattern
 {
-	 public interface IPelota
+	public interface IPelota
 	{
 		void Lanzar();
 	}
